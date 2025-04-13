@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name        New script
+// @name        TestHideElements.user
 // @namespace   https://github.com/Urie96/UserScript
-// @match       *://example.org/*
+// @match       *://bits.*
 // @version     1.0
 // @author      Urie96
 // @description 2025/04/13 21:43:37
