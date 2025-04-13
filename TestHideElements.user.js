@@ -10,9 +10,13 @@
 // @grant       GM_addStyle
 // ==/UserScript==
 
-function hideElement(selector) {
-  GM_addStyle(`${selector} {display: none !important;}`);
-}
+(function () {
+  "use strict";
 
-hideElement("#onesite-portal-header");
-hideElement("#onesite-framework-root > div > div > div.with-sider-expanded");
+  function hideElement(selector) {
+    GM_addStyle(`${selector} {display: none !important;}`);
+  }
+
+  hideElement("#onesite-portal-header");
+  hideElement("#onesite-framework-root > div > div > div.with-sider-expanded");
+})();
