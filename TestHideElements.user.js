@@ -5,6 +5,7 @@
 // @version     1.0
 // @author      Urie96
 // @description 2025/04/13 21:43:37
+// @license     GPL-3.0 License
 // @run-at      document-idle
 // @grant       GM_addStyle
 // ==/UserScript==
