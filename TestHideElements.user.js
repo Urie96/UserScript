@@ -2,7 +2,7 @@
 // @name        TestHideElements
 // @namespace   https://github.com/Urie96/UserScript
 // @match       *://bits.*/*
-// @version     1.0
+// @version     1.1
 // @author      Urie96
 // @description 2025/04/13 21:43:37
 // @license     MIT
