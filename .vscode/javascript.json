@@ -1,0 +1,17 @@
+{
+  "init": {
+    "prefix": "init",
+    "body": [
+      "// ==UserScript==",
+      "// @name        New script",
+      "// @namespace   https://github.com/Urie96/UserScript",
+      "// @match       *://example.org/*",
+      "// @version     1.0",
+      "// @author      Urie96",
+      "// @description $CURRENT_YEAR/$CURRENT_MONTH/${CURRENT_DATE} $CURRENT_HOUR:$CURRENT_MINUTE:$CURRENT_SECOND",
+      "// @run-at      document-idle",
+      "// @grant       none",
+      "// ==/UserScript=="
+    ]
+  }
+}
