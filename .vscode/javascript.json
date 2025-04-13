@@ -9,7 +9,7 @@
       "// @version     1.0",
       "// @author      Urie96",
       "// @description $CURRENT_YEAR/$CURRENT_MONTH/${CURRENT_DATE} $CURRENT_HOUR:$CURRENT_MINUTE:$CURRENT_SECOND",
-      "// @license     GPL-3.0-or-later; https://www.gnu.org/licenses/gpl-3.0.txt",
+      "// @license     MIT",
       "// @run-at      document-idle",
       "// @grant       none",
       "// ==/UserScript=="
