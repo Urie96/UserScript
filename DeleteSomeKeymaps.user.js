@@ -16,9 +16,8 @@
   document.addEventListener(
     "keydown",
     function (e) {
-      // 例如要移除Ctrl+S快捷键
       if (e.metaKey && (e.key === "k" || e.key === "j" || e.key === "l")) {
-        e.preventDefault();
+        // e.preventDefault();
         e.stopPropagation();
         e.stopImmediatePropagation();
         return false;
