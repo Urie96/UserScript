@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        DeleteSomeKeymaps
+// @name        Disable Keybinds
 // @namespace   https://github.com/Urie96/UserScript
 // @match       *://*/*
 // @version     1.0
